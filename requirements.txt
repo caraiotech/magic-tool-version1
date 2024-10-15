@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pickle-mixin
+requests
+torch
+scikit-image
+pillow
